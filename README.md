@@ -66,6 +66,7 @@ flowchart TD
 
 ## 4. Maquetado
 
+![texto alternativo](wireframe.png)
 
 ## 5. Cierre y evidencias
 
